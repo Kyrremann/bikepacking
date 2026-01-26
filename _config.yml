@@ -8,6 +8,9 @@ favicon: icons8-bicycle-96.png
 goat_counter: kyrremann
 remote_theme: riggraz/no-style-please
 
+exclude:
+  - .jekyll-cache/
+
 permalink: /:categories/:year/:title
 
 plugins:
