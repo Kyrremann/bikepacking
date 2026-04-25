@@ -3,7 +3,7 @@ layout: post
 category: japan
 ---
 
-![]({{ site.baseurl }}/assets/img/)
+![](https://kyrremann-bikepacking.s3.nl-ams.scw.cloud/images/)
 **
 
 ## Verdict (TL;DR)
@@ -18,5 +18,5 @@ category: japan
 
 ### Day one - From to
 
-![]({{ site.baseurl }}/assets/img/)
+![](https://kyrremann-bikepacking.s3.nl-ams.scw.cloud/images/)
 **
