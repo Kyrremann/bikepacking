@@ -29,7 +29,7 @@ If you want to see more pictures, you need to head over to my [plog](https://kyr
 This post is just a summary of my three months in Japan, but instead of adding my gear for in each of the other three posts, I've written about it down below.
 The gear didn't change while I traveled, some of the gear got moved around, but other than that I'm pretty pleased with my setup for these kinds of trips.
 
-- [Hokkdaio]({{ site.baseurl }}/2025/japan/hokkaido)
+- [Hokkdaio]({{ site.baseurl }}/japan/2025/hokkaido)
 - Honshu (To be written)
 - Kyushi (To be written)
 
