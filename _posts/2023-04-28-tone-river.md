@@ -66,7 +66,7 @@ There are also several parks that you cross on the way, and not all of them was 
 You also need to plan you stops for eating, there are very few restaurants or convenience stores that you can see from the cycling path.
 I did not factor this in on my first day, and ended up eating too little, so the next day I had several marked on my map in case I got hungry.
 
-## My trip
+## Trip report
 
 Cycling Tone river was one of the last thing I did on my four weeks trip to Japan in 2023.
 I had originally not planned to cycle any more after my [Kyushu trip]({{ site.baseurl }}/japan/2023/kyushu), but I ended up with two extra days, so why not try to find a trip near Tokyo.

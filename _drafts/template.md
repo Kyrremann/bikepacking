@@ -12,9 +12,15 @@ category: japan
 
 ## Transportation
 
+## Accommodation
+
+## What I'm happy I did
+
 ## Challenges
 
-## My trip
+## What would I change for my next trip
+
+## Trip report
 
 ### Day one - From to
 

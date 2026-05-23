@@ -55,7 +55,7 @@ I was outside the tourist season, so not that many other cyclists, even thought 
 You should remember to finish early so that you have time to wander around and get something to eat before restaurants close for the night.
 Some of the smaller cities may have shorter opening hours than what you are used to in the bigger cities.
 
-## My trip
+## Trip report
 
 ### Day one - Onomichi to Ōmishima
 

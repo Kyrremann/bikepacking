@@ -61,7 +61,7 @@ If you arrive by plane (read: Oslo Airport Gardermoen), Trysil is definitely the
 The biggest challenge was that you need to bring your supplies, and there are long stretches between supply points.
 There is also just one bus going to Trysil each day, so you end up starting your trip a bit late in the day.
 
-## My trip
+## Trip report
 
 ### Day one, 32km,526m - Bus to Trysil, late start
 
