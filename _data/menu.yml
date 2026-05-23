@@ -7,6 +7,8 @@ entries:
       - title: Japan
         post_list:
           category: japan
+  - title: Newsletter
+    url: /newsletter
   - title: Thanks to
     entries:
       - title: <a target="_blank" href="https://icons8.com/icon/1DDLWcrCVxtp/bicycle">Bicycle</a> favicon by <a target="_blank" href="https://icons8.com">Icons8</a>
