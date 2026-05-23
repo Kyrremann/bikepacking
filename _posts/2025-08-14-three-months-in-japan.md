@@ -7,7 +7,7 @@ category: japan
 *I get emotional looking at this picture, taken on the last morning of my trip*
 
 In the fall of 2025 I had my longest bike trip till now, and probably ever.
-I had taken three months off from work, and the plan was to spend those three months in Japan, cycling around.
+I had taken three months off from work, and I wanted to use does months to cycle in Japan, again.
 The plan was never to cycle from the northern most point to the southern most point, since I wanted to explore more than simply racing to the end.
 I'm not going to lie and say that I didn't try to make my plan go from the north to the south, but I would have needed at least one more month (if not two) if I had aimed to cover everything I wanted to see in one go.
 So instead I prioritized a little bit of everything, Hokkaido in the north, the Japanese alps, Sado, and Yakushima islands in the south.
