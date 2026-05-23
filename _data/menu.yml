@@ -8,9 +8,9 @@ entries:
         post_list:
           category: japan
   - title: Newsletter
-    url: /newsletter
+    url: {{ site.baseurl }}//newsletter
   - title: Feed
-    url: /feed.xml
+    url: {{ site.baseurl }}//feed.xml
   - title: Thanks to
     entries:
       - title: <a target="_blank" href="https://icons8.com/icon/1DDLWcrCVxtp/bicycle">Bicycle</a> favicon by <a target="_blank" href="https://icons8.com">Icons8</a>
