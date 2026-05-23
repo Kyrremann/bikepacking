@@ -3,7 +3,7 @@ layout: post
 category: japan
 ---
 
-![View of a bridge connecting two island with a lot of forest, you can see a small town at the bottom of the image.](https://kyrremann-bikepacking.s3.nl-ams.scw.cloud/images/shimanami-kaido/innoshima-bridge.jpg)
+![View of a bridge connecting two island with a lot of forest, you can see a small town at the bottom of the image.](https://kyrremann-bikepacking.s3.nl-ams.scw.cloud/images/2024/japan/shimani-kaido/innoshima-bridge.jpg)
 *The view from the Takamiyama viewpoint.*
 
 Shimanami Kaido is a super popular cycling road connecting Honshū with Shikoku, taking across several islands with quiet roads, big bridges, and beautiful nature.
@@ -20,7 +20,7 @@ You could also do the ride in one day, but then you probably won't have time to 
 
 ## The route
 
-![A map of routes you can take, and where the ferries goes.](https://kyrremann-bikepacking.s3.nl-ams.scw.cloud/images/shimanami-kaido/map-and-ferry.jpg)
+![A map of routes you can take, and where the ferries goes.](https://kyrremann-bikepacking.s3.nl-ams.scw.cloud/images/2024/japan/shimani-kaido/map-and-ferry.jpg)
 *There are plenty of maps on the way showing the route, and where you are.*
 
 My trip on [Ride With GPS](https://ridewithgps.com/collections/2708108?privacy_code=b1fYtdFSTOG6XiI0NcTr6dOFx0702hwT).
@@ -30,7 +30,7 @@ Since I wanted to spend two days on this leg of the trip, I found some accommoda
 This gave me a good opportunity to visit three small museums, Tokoro Museum, Toyo Ito Museum of Architecture, and Ken Iwata Mother and Child Museum.
 I also wanted to visit some of the lookout points, so I battled my way up two steep hills!
 
-![A road with two lanes, with blue line on each side of the road.](https://kyrremann-bikepacking.s3.nl-ams.scw.cloud/images/shimanami-kaido/blue-lines.jpg)
+![A road with two lanes, with blue line on each side of the road.](https://kyrremann-bikepacking.s3.nl-ams.scw.cloud/images/2024/japan/shimani-kaido/blue-lines.jpg)
 *Most of the roads on the Shimanami Kaido have a blue line or blue arrows signaling to cars that they are sharing the road with cyclists.*
 
 ## Transportation
@@ -45,7 +45,7 @@ In short, starting in Onimichi is probably easiest if you're not already on Shik
 
 PS: You need a rinko bag (輪行袋) to bring you bike on most transportation in Japan.
 
-![My bicycle with all the gear I'm using on my travels.](https://kyrremann-bikepacking.s3.nl-ams.scw.cloud/images/shimanami-kaido/packed-bike.jpg)
+![My bicycle with all the gear I'm using on my travels.](https://kyrremann-bikepacking.s3.nl-ams.scw.cloud/images/2024/japan/shimani-kaido/packed-bike.jpg)
 *My packed Fara bicycle, ready for Shimanami Kaido and all the way around Shikoku.*
 
 ## Challenges
@@ -59,7 +59,7 @@ Some of the smaller cities may have shorter opening hours than what you are used
 
 ### Day one - Onomichi to Ōmishima
 
-![View of several arhats next to a walking path on top of a small mountain.](https://kyrremann-bikepacking.s3.nl-ams.scw.cloud/images/shimanami-kaido/500-arhats.jpg)
+![View of several arhats next to a walking path on top of a small mountain.](https://kyrremann-bikepacking.s3.nl-ams.scw.cloud/images/2024/japan/shimani-kaido/500-arhats.jpg)
 *These types of statues are supposedly called arhats*
 
 Still jet lagged from a 20 hour trip starting way too early back in Norway, I start my cycle trip just before ten o'clock.
@@ -73,13 +73,13 @@ It is a steep hill to get up, but it's worth it.
 On the way down I stopped at a cozy chocolate factory (Ushio chocolate).
 Great place to rest for a bit and taste some fresh Japanese chocolate.
 
-![Iced coco and ice cream on a small tray.](https://kyrremann-bikepacking.s3.nl-ams.scw.cloud/images/shimanami-kaido/ushio-chocolate.jpg)
+![Iced coco and ice cream on a small tray.](https://kyrremann-bikepacking.s3.nl-ams.scw.cloud/images/2024/japan/shimani-kaido/ushio-chocolate.jpg)
 *Great local ice cream and iced coco while lounging in a sofa.*
 
 On my way to the first bridge I passed a pancake restaurant, so I had to stop for some more food.
 The first bridge had the walking and cycling path underneath, so it wasn't as noisy as the others would be.
 
-![View of the bike path underneath a car bridge, the road is split in three, two for each cycling direction, and one for walking.](https://kyrremann-bikepacking.s3.nl-ams.scw.cloud/images/shimanami-kaido/underneath-innoshima-bridge.jpg)
+![View of the bike path underneath a car bridge, the road is split in three, two for each cycling direction, and one for walking.](https://kyrremann-bikepacking.s3.nl-ams.scw.cloud/images/2024/japan/shimani-kaido/underneath-innoshima-bridge.jpg)
 *This was maybe the nicest bridge on my trip, and not that noisy since the car are on the top.*
 
 Next island was Innoshima island where I visited a temple with five hundred arhats on Mt. Shirataki.
@@ -92,14 +92,14 @@ Afterwards it was on to the next island, Ikuchi, where I visited quite a big tem
 The temple had an underground cave with supposedly 1000 Buddhas placed around.
 Next to the temple was the Hill of Hope, which was a marble attraction with statues on top of a small hill.
 
-![A big marble sculpture on top of a marble foot path.](https://kyrremann-bikepacking.s3.nl-ams.scw.cloud/images/shimanami-kaido/hill-of-hope.jpg)
+![A big marble sculpture on top of a marble foot path.](https://kyrremann-bikepacking.s3.nl-ams.scw.cloud/images/2024/japan/shimani-kaido/hill-of-hope.jpg)
 *The marble is shipped all the way from Italy!*
 
 Before continuing on my bike I tried some orange ice cream with carbonic acid, and visited a lemonade café.
 The café had vegan "chicken" wings, and omelet in sausage bun with lemon tasting mayonnaise.
 The lemonade was really good, and I enjoyed the omelet, but the wings were so-so.
 
-![A narrow bike path close to a moss covered concrete wall on one side, and a fence on the other.](https://kyrremann-bikepacking.s3.nl-ams.scw.cloud/images/shimanami-kaido/hidden-bike-path.jpg)
+![A narrow bike path close to a moss covered concrete wall on one side, and a fence on the other.](https://kyrremann-bikepacking.s3.nl-ams.scw.cloud/images/2024/japan/shimani-kaido/hidden-bike-path.jpg)
 *Japan is full of these small roads, some of them are for cars, but this one was just for bikes.*
 
 The last trek of the day went to Ōmishima island, where I was staying at Tomarigi Hostel (大三島 素泊り茶房 トマリギ).
@@ -109,12 +109,12 @@ Still, I managed to visit the local onsen, which was quite big for this size of 
 Turned out the café didn't close 'til later, so I could had taken it slower.
 Omishima Brewery (大三島ブリュワリー) had a nice selection of beers on tap, and I could buy some to go that came in aluminum bottles, which was a first for me.
 
-![The sun setting just above the sea.](https://kyrremann-bikepacking.s3.nl-ams.scw.cloud/images/shimanami-kaido/sunset-at-omishima.jpg)
+![The sun setting just above the sea.](https://kyrremann-bikepacking.s3.nl-ams.scw.cloud/images/2024/japan/shimani-kaido/sunset-at-omishima.jpg)
 *I should watch the sun set more often.*
 
 ### Day two - Finishing in Imabari
 
-![View of a long bridge crossing two small island in the channel between Shikoku and Ōshima.](https://kyrremann-bikepacking.s3.nl-ams.scw.cloud/images/shimanami-kaido/kurushima-kaikyo-bridge.jpg)
+![View of a long bridge crossing two small island in the channel between Shikoku and Ōshima.](https://kyrremann-bikepacking.s3.nl-ams.scw.cloud/images/2024/japan/shimani-kaido/kurushima-kaikyo-bridge.jpg)
 *The last bridge of Shimanami Kaido, it's pretty long.*
 
 Yet another night with not the best sleep, probably because of the jet lag.
@@ -128,7 +128,7 @@ They had some pliers which I could use to hold the wire while I tightened the bo
 So for my next trip I need to bring pliers, or some multi-tool with pliers.
 
 
-![A strange formed building, looking like it is made out of metal.](https://kyrremann-bikepacking.s3.nl-ams.scw.cloud/images/shimanami-kaido/toyo-ito-museum-of-architecture.jpg)
+![A strange formed building, looking like it is made out of metal.](https://kyrremann-bikepacking.s3.nl-ams.scw.cloud/images/2024/japan/shimani-kaido/toyo-ito-museum-of-architecture.jpg)
 *Of course a museum of architecture has a really interesting building!*
 
 The rest of the day luckily went smoothly, with no more accidents.
@@ -136,7 +136,7 @@ Next stop was Tokoro Museum Omishima (ところミュージアム大三島) with
 The building was built in a slope, so each floor was like a big staircase leading down to a viewpoint of the ocean.
 Just down the road from it was Toyo Ito Museum of Architecture (今治市伊東豊雄建築ミュージアム), which had a local exhibition about one of the nearby towns.
 
-![A metal bike stand shaped as a human looking out at the sea.](https://kyrremann-bikepacking.s3.nl-ams.scw.cloud/images/shimanami-kaido/mr-omishima.jpg)
+![A metal bike stand shaped as a human looking out at the sea.](https://kyrremann-bikepacking.s3.nl-ams.scw.cloud/images/2024/japan/shimani-kaido/mr-omishima.jpg)
 *As I did a lot, this bike stand also looked pondering out on the horizon.*
 
 On the parking lot of the museum of architecture I found the first of six [6人のシクロ・ツーリスト](https://www.cyclo-shimanami.com/6-cyclo-tourists/), which are "human sized" bike stands.
@@ -150,7 +150,7 @@ No harm done, but it was a bit scary!
 
 Cycling to Hakata Beach (伯方ビーチ) for my lunch break I found another one of the シクロ・ツーリスト (cycle tourists).
 
-![ANOTHER human shaped bike stand, this one bending over while holding your bike.](https://kyrremann-bikepacking.s3.nl-ams.scw.cloud/images/shimanami-kaido/mr-hakatajima.jpg)
+![ANOTHER human shaped bike stand, this one bending over while holding your bike.](https://kyrremann-bikepacking.s3.nl-ams.scw.cloud/images/2024/japan/shimani-kaido/mr-hakatajima.jpg)
 *This was one of the easier one to use with my setup.*
 
 After lunch it was time for the last steep hill up to Kirosan Observatory Park (亀老山展望公園).
@@ -163,5 +163,5 @@ This is the longest bridge on the Shimanami Kaido, spanning four kilometers, and
 
 Finishing the bridge meant that I had finished the Shimanami Kaido, and could start my trip around Shikoku!
 
-![My bicycle leaning on a sign spelling Shimanami in big wooden letters. In the background you can see the Kurushima Strait bridge.](https://kyrremann-bikepacking.s3.nl-ams.scw.cloud/images/shimanami-kaido/shimanami.jpg)
+![My bicycle leaning on a sign spelling Shimanami in big wooden letters. In the background you can see the Kurushima Strait bridge.](https://kyrremann-bikepacking.s3.nl-ams.scw.cloud/images/2024/japan/shimani-kaido/shimanami.jpg)
 *This picture was taken when I finished my trip around Shikoku, but it's a good ending to the Shimanami Kaido too!*
