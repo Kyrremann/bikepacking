@@ -30,7 +30,7 @@ This post is just a summary of my three months in Japan, but instead of adding m
 The gear didn't change while I traveled, some of the gear got moved around, but other than that I'm pretty pleased with my setup for these kinds of trips.
 
 - [Hokkdaio]({{ site.baseurl }}/japan/2025/hokkaido)
-- Honshu (To be written)
+- [Honshu]({{ site.baseurl }}/japan/2025/honshu)
 - Kyushi (To be written)
 
 ## How to travel with a bike
