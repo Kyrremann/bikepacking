@@ -31,7 +31,7 @@ The gear didn't change while I traveled, some of the gear got moved around, but 
 
 - [Hokkdaio]({{ site.baseurl }}/japan/2025/hokkaido)
 - [Honshu]({{ site.baseurl }}/japan/2025/honshu)
-- Kyushi (To be written)
+- [Kyushu]({{ site.baseurl }}/japan/2025/kyushu)
 
 ## How to travel with a bike
 
