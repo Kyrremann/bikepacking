@@ -243,8 +243,8 @@ Next to a fisherman with a small bonfire.
 
 ### September 24th - Found the east coast
 
-![](https://kyrremann-plog.s3.nl-ams.scw.cloud/images/2026/09/20260924_095358.jpg)
-*No turning back when you're nearly at the top.*
+![](https://kyrremann-plog.s3.nl-ams.scw.cloud/images/2026/09/20260924_102215.jpg)
+*Turns out they had closed the road for cars on the other side, did meet one person hiking.*
 
 This morning I continued a trend by eating a microwave burger for breakfast at the convenience store.
 It's not the best tasting burgers, but filled my stomach, and it's a lot better than eating the white bread that I usually do in Japan.
