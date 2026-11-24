@@ -8,6 +8,11 @@ img + em {
     font-style: normal;
 }
 
+video + em {
+    font-size: 12px;
+    font-style: normal;
+}
+
 video {
 		max-width: 100%;
 		display: block;
