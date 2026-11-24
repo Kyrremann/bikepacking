@@ -1,12 +1,15 @@
 entries:
   - title: Routes
     entries:
-      - title: Norway
+      - title: Korea
         post_list:
-          category: norway
+          category: korea
       - title: Japan
         post_list:
           category: japan
+      - title: Norway
+        post_list:
+          category: norway
   - title: Newsletter
     url: newsletter
   - title: Feed
